@@ -22,3 +22,4 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
+Made a change to trigger a build.
