@@ -18,6 +18,7 @@
 <body>
 	<img id="logo" src="logo.png" />
 <h1>What could possibly go wrong, Ian?</h1>
+<h2>Nothing!</h2>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
 	$links = [];
