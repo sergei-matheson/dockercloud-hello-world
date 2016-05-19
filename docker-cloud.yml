@@ -1,4 +1,4 @@
 helloworld:
-  image: sergeimatheson/docker-cloud-hello-world
+  image: sergeimatheson/hello-cloud
   ports:
     - "80:80"
